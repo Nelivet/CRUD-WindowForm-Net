@@ -1,7 +1,7 @@
 # CRUD-WindowForm-Net
 ____________________________________________________________________________________________________________________________________________
 
-Este proyecto es un ejemplo de una aplicación de Windows Forms desarrollada en C# que implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar) con una base de datos SQL Server
+This project is an example of a Windows Forms application developed in C# that implements CRUD (Create, Read, Update, Delete) operations with a SQL Server database.
 
 [![registro-Produc.png](https://i.postimg.cc/WzL7gHFz/registro-Produc.png)](https://postimg.cc/S2d8pVGb)
 
